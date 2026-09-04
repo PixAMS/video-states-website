@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "path": "experiments/images/00-master-yellow-pink-16x9.png",
+      "bytes": 2017629,
+      "sha256": "7e13aeed19910dc90221b702f15969407a13888c3f9d604ab9e27316b73d9e9f"
+    },
+    {
+      "path": "experiments/images/01-master-streetwear-scroll-16x9.png",
+      "bytes": 2017753,
+      "sha256": "56aa483850e1263221e0f1d5bbc71c609dad2a9b344bb74d856e76701ac0fa81"
+    },
+    {
+      "path": "experiments/images/02-master-streetwear-clean-walls-16x9.png",
+      "bytes": 1639414,
+      "sha256": "2012d888dd09e1cb9bd0d98a29f42bde8bc3bad4d02cbe1de25d89c78db7b93e"
+    },
+    {
+      "path": "experiments/images/03-colorway-night-editorial-target-16x9.png",
+      "bytes": 1880657,
+      "sha256": "7bceca6b14980096632fa659bb6922a65409f3aa5511b23adc9269b4ec7c8543"
+    },
+    {
+      "path": "experiments/images/04-open-set-target-16x9.png",
+      "bytes": 1766060,
+      "sha256": "8f695016d3558fff88814c08715210fe97350baa8f9e8a1e0d23d8c773b1d441"
+    },
+    {
+      "path": "experiments/images/05-open-set-new-york-target-16x9.png",
+      "bytes": 2061068,
+      "sha256": "9a1d0b531dd2fb2a7253329cfc33e6a7fe9448dd90d7df088f58c1697e0529a0"
+    },
+    {
+      "path": "experiments/images/keyframe-full-look-v1.png",
+      "bytes": 1469023,
+      "sha256": "86edf9317797666848f221a43ae638928b0f6717c505a5dd2804dea718e8c379"
+    },
+    {
+      "path": "experiments/images/keyframe-full-look-v2.png",
+      "bytes": 1471411,
+      "sha256": "44d25b9232c273a17ab27872f3ced5bb7422449b6fa9b24c4669fd97a3750fe9"
+    },
+    {
+      "path": "experiments/images/keyframe-light-shift-v1.png",
+      "bytes": 1713733,
+      "sha256": "f442424f04d7af4e58b8d2b326febff3ff6b05b106909a5555f3e56c6b043717"
+    },
+    {
+      "path": "experiments/videos/04-colorway-pilot-ltx25-fast-720p.mp4",
+      "bytes": 886044,
+      "sha256": "c758de6596498c24052c03aac280c7eefcba4379e3476178586117a8b60086f7"
+    },
+    {
+      "path": "experiments/videos/05-motion-only-pro-1080p-50fps.mp4",
+      "bytes": 1722570,
+      "sha256": "1e2688a854920c38d4e6682ae861d58d29674d21b6d5835b40b3b4646baad13a"
+    },
+    {
+      "path": "experiments/videos/06-open-set-new-york-pro-motion.mp4",
+      "bytes": 2585612,
+      "sha256": "3504be7c5f6bd2f46837cacc88031a360818884e0985cbafbf7421804f3f40a3"
+    },
+    {
+      "path": "experiments/videos/07-open-set-new-york-simple-slide-pro.mp4",
+      "bytes": 2085391,
+      "sha256": "8bc3811b3729a47f0248af4c2a8597474b85615739d038bed829f3296413b0c7"
+    },
+    {
+      "path": "experiments/videos/08-light-shift-pro-forward.mp4",
+      "bytes": 1838723,
+      "sha256": "a55bbeb7c0e22040d665303af37da91ce5011412f8af1a5bdeb1973820a3f4c3"
+    },
+    {
+      "path": "experiments/videos/09-light-shift-coupled-blue-hour-pro.mp4",
+      "bytes": 2653882,
+      "sha256": "2094b0190abc9651625ac5686ebeec0beb56c2c91eb8c12cc1a21e9e8cf6e95f"
+    },
+    {
+      "path": "experiments/videos/10-full-look-jump-cut-pro.mp4",
+      "bytes": 1788673,
+      "sha256": "cea3dfacbe2660f286bded8b873fe6726cd4beb972edc566924a593452798838"
+    },
+    {
+      "path": "experiments/videos/11-full-look-jump-cut-v3-pro.mp4",
+      "bytes": 1961761,
+      "sha256": "ecb563100f387421127690d0b82cd24a4bae0bf5a15f595e56ad2003ec383aaf"
+    },
+    {
+      "path": "experiments/videos/12-full-look-touchdown-cut-v4-pro.mp4",
+      "bytes": 1503724,
+      "sha256": "626f0236676cb102ecd0f0617f287f13ed834eb0ca717d9455d1fc3a1848e9ce"
+    },
+    {
+      "path": "public/ltx-studio-logo.svg",
+      "bytes": 3525,
+      "sha256": "1f65fcb1ec5cce3395f4c98061a9379082f9149bda566807d9801fc8188d5401"
+    },
+    {
+      "path": "public/retake/keyframe-full-look-v3.png",
+      "bytes": 1462056,
+      "sha256": "a529188be839ad570839c0864dec564e69e1c303267c0f8aac4298ba1adb33fb"
+    },
+    {
+      "path": "public/retake/keyframe-light-shift-v2.png",
+      "bytes": 1627626,
+      "sha256": "84e07abd83b832a97ed3bfd8e34fd600312e302402217aa8cef5b5240b67b2b2"
+    },
+    {
+      "path": "public/retake/state-base.png",
+      "bytes": 1639414,
+      "sha256": "2012d888dd09e1cb9bd0d98a29f42bde8bc3bad4d02cbe1de25d89c78db7b93e"
+    },
+    {
+      "path": "public/retake/state-colorway.png",
+      "bytes": 1880657,
+      "sha256": "7bceca6b14980096632fa659bb6922a65409f3aa5511b23adc9269b4ec7c8543"
+    },
+    {
+      "path": "public/retake/state-environment.png",
+      "bytes": 2061068,
+      "sha256": "9a1d0b531dd2fb2a7253329cfc33e6a7fe9448dd90d7df088f58c1697e0529a0"
+    },
+    {
+      "path": "public/retake/video-1-reverse.mp4",
+      "bytes": 1485172,
+      "sha256": "d096248a8370eca3f71c543ac66c650d2245d8e271bdb487bada42797509c2ac"
+    },
+    {
+      "path": "public/retake/video-1.mp4",
+      "bytes": 1379460,
+      "sha256": "c79dc5b0a1f20ecd830769921e72463d2fffdd00f3d0de236df464ac03e13674"
+    },
+    {
+      "path": "public/retake/video-2-reverse.mp4",
+      "bytes": 675432,
+      "sha256": "89c85c60582cfe74b81e8b8e4c0beb116a0466e8e79ded761d78b4c022b88081"
+    },
+    {
+      "path": "public/retake/video-2.mp4",
+      "bytes": 733933,
+      "sha256": "1b7be7c1e8ca702b54b6aff356419bed643ba5c04b32f9b2e160c2c234191f58"
+    },
+    {
+      "path": "public/retake/video-3-reverse.mp4",
+      "bytes": 873457,
+      "sha256": "899852bd8e2755e6b64ad6b1f04b849464f79a4814b28f70e47d46fb1aabe33e"
+    },
+    {
+      "path": "public/retake/video-3.mp4",
+      "bytes": 883813,
+      "sha256": "f1a011d72df1560515d826ad70718cf461163030af0dc33cbddf766101ff2fd4"
+    },
+    {
+      "path": "public/retake/video-4-reverse.mp4",
+      "bytes": 663322,
+      "sha256": "b608f7eaa35ac52cf2ae2bec60b278678fd0d46222f27f83a5969996bdf82992"
+    },
+    {
+      "path": "public/retake/video-4.mp4",
+      "bytes": 684717,
+      "sha256": "12f3d532dff41e1b3fc8b3f3f8a79d169c5a8a4798e3710386467a542232dd7e"
+    }
+  ]
+}
